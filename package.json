@@ -1,0 +1,13 @@
+{
+  "name": "levanter-railway",
+  "version": "1.0.0",
+  "description": "Running Levanter on Railway",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {}
+}
